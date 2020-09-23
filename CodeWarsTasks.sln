@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Split Strings", "Split Stri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumsOfParts", "SumsOfParts\SumsOfParts.vcxproj", "{FB47417E-8CFE-4BB1-A32F-0B80172AD69B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumSubarraySum", "MaximumSubarraySum\MaximumSubarraySum.vcxproj", "{87C13E15-AA3F-4C80-B52C-C733AB73E81B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{FB47417E-8CFE-4BB1-A32F-0B80172AD69B}.Release|x64.Build.0 = Release|x64
 		{FB47417E-8CFE-4BB1-A32F-0B80172AD69B}.Release|x86.ActiveCfg = Release|Win32
 		{FB47417E-8CFE-4BB1-A32F-0B80172AD69B}.Release|x86.Build.0 = Release|Win32
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Debug|x64.ActiveCfg = Debug|x64
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Debug|x64.Build.0 = Debug|x64
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Debug|x86.ActiveCfg = Debug|Win32
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Debug|x86.Build.0 = Debug|Win32
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Release|x64.ActiveCfg = Release|x64
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Release|x64.Build.0 = Release|x64
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Release|x86.ActiveCfg = Release|Win32
+		{87C13E15-AA3F-4C80-B52C-C733AB73E81B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

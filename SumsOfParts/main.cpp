@@ -37,7 +37,7 @@ Notes
 Task Link: https://www.codewars.com/kata/5ce399e0047a45001c853c2b/cpp
 */
 
-std::vector<unsigned long long> partsSum(const std::vector<unsigned long long>& ls) 
+std::vector<unsigned long long> partsSum(const std::vector<unsigned long long>& ls)
 {
 	std::vector<unsigned long long> tSums;
 	unsigned long long tSum = 0;
@@ -58,7 +58,7 @@ int main()
 	std::vector<unsigned long long> tVec = {0, 1, 3, 6, 10};
 
 	std::vector<unsigned long long> tVecResult = partsSum(tVec);
-	
+
 
 
 	return 0;
